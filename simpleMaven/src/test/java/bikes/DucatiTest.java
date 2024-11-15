@@ -8,7 +8,7 @@ import org.testng.Reporter;
 import org.testng.annotations.Test;
 
 public class DucatiTest {
-	// Modification in Gthub
+	// Modification in Github
 	@Test
 	public void ducati() {
 		
